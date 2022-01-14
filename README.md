@@ -1,3 +1,8 @@
+<h1 style="border:2px solid Tomato;">All the Past commits that were made to r5x_tree can be found here : <a href="https://github.com/KharaMe-devices/kernel_realme_r5x/tree/eleven">KharaMe_r5x</a></h1>
+<h3 align="left">⚡ I just wanted to keep my tree Clean & Neat, Thanks for Understanding 🙂 </h3>
+
+
+
 # Device Tree for Realme 5, Realme 5s, Realme 5i
 
 The Realme 5, Realme 5s, Realme 5i are mid-range smartphones from Realme. These are announced and released in August 2019, November 2019,January 2020.
@@ -28,3 +33,5 @@ The Realme 5, Realme 5s, Realme 5i are mid-range smartphones from Realme. These 
 ## Device picture
 
 ![Realme 5 Series](https://fdn2.gsmarena.com/vv/pics/realme/realme-5-rmx1911-2.jpg)# zeus_tree_r5x
+
+ 
