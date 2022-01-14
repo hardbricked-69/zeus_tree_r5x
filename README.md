@@ -1,4 +1,4 @@
-<h1 style="border:2px solid Tomato;">All the Past commits that were made to r5x_tree can be found here : <a href="https://github.com/KharaMe-devices/kernel_realme_r5x/tree/eleven">KharaMe_r5x</a></h1>
+<h1 style="border:2px solid Tomato;">All the Past commits that were made to r5x_tree can be found here : <a href="https://github.com/KharaMe-devices/device_realme_r5x/tree/eleven">KharaMe_r5x</a></h1>
 <h3 align="left">⚡ I just wanted to keep my tree Clean & Neat, Thanks for Understanding 🙂 </h3>
 
 
