@@ -510,7 +510,7 @@ PRODUCT_USES_QCOM_HARDWARE := true
 $(call inherit-product, packages/apps/RealmeParts/parts.mk)
 
 # Add OnePlus_Launcher
-$(call inherit-product, vendor/oplauncher/OPLauncher.mk)
+#$(call inherit-product, vendor/oplauncher/OPLauncher.mk)
 
 
 
